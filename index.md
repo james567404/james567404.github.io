@@ -6,29 +6,24 @@ National Yang Ming Chiao Tung University
 Room 529, Engineering Building IV, 
 1001 Ta-Hsueh Road, HsinChu, Taiwan 
 
+
 E-mail: ilovetaiwan37@gmail.com 
 
-### Education
+## Education
                                 
-- Bulleted	2019 till now : studying as Ph.D. student at National Chiao Tung University - Institute of Electronics
-- Bulleted	2016~2019 : B.S. degree at National Chiao Tung University - Department of Electronics Engineering
-- Bulleted	2015~2016 : studied at National Tsing Hua University - Department of Engineering and System Science
+*	2019 till now : studying as Ph.D. student at National Yang Ming Chiao Tung University - Department of Electronics Engineering
+*	2016~2019 : B.S. degree at National Chiao Tung University - Department of Electronics Engineering
+*	2015~2016 : studied at National Tsing Hua University - Department of Engineering and System Science
 
 
+## Research Interests
+
+* LEO Satellite Communication
+* Wireless Communications
+* Reinforcement Learning
 
 
+## Publications
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/james567404/james567404.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Hsieh, Chi-Kai, Kun-Lin Chan, and Feng-Tsun Chien. "Energy-Efficient Power Allocation and User Association in Heterogeneous Networks with Deep Reinforcement Learning." Applied Sciences 11.9 (2021): 4135. <i>Applied Sciences</i>
+2. Chan, Kun-Lin, and Feng-Tsun Chien. "Learning-Based Content Caching and User Clustering: A Deep Deterministic Policy Gradient Approach." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
