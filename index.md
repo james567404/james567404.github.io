@@ -25,5 +25,5 @@ E-mail: ilovetaiwan37@gmail.com
 
 ## Publications
 
-1. Hsieh, Chi-Kai, Kun-Lin Chan, and Feng-Tsun Chien. "Energy-Efficient Power Allocation and User Association in Heterogeneous Networks with Deep Reinforcement Learning." Applied Sciences 11.9 (2021): 4135. <i>Applied Sciences</i>
-2. Chan, Kun-Lin, and Feng-Tsun Chien. "Learning-Based Content Caching and User Clustering: A Deep Deterministic Policy Gradient Approach." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
+1. Hsieh, Chi-Kai, Kun-Lin Chan, and Feng-Tsun Chien. "Energy-Efficient Power Allocation and User Association in Heterogeneous Networks with Deep Reinforcement Learning." <i>Applied Sciences</i> 11.9 (2021): 4135. 
+2. Chan, Kun-Lin, and Feng-Tsun Chien. "Learning-Based Content Caching and User Clustering: A Deep Deterministic Policy Gradient Approach." <i>ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>. IEEE, 2020.
