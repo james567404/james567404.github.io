@@ -1,25 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Kun-Lin Chan's Pages
 
-You can use the [editor on GitHub](https://github.com/james567404/james567404.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+PhD students
+Department of Electronics Engineering
+National Yang Ming Chiao Tung University
+Room 529, Engineering Building IV
+1001 Ta-Hsueh Road, HsinChu, Taiwan
+E-mail: ilovetaiwan37@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+                                
+- Bulleted	2019 till now : studying as Ph.D. student at National Chiao Tung University - Institute of Electronics
+- Bulleted	2016~2019 : B.S. degree at National Chiao Tung University - Department of Electronics Engineering
+- Bulleted	2015~2016 : studied at National Tsing Hua University - Department of Engineering and System Science
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
