@@ -1,9 +1,11 @@
 ## Welcome to Kun-Lin Chan's Pages
 
-PhD students, Department of Electronics Engineering 
+PhD students, Department of Electronics Engineering,
 National Yang Ming Chiao Tung University 
-Room 529, Engineering Building IV 
+
+Room 529, Engineering Building IV, 
 1001 Ta-Hsueh Road, HsinChu, Taiwan 
+
 E-mail: ilovetaiwan37@gmail.com 
 
 ### Education
