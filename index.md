@@ -1,5 +1,7 @@
 ## Welcome to Kun-Lin Chan's Page
 
+![image](https://github.com/james567404/james567404.github.io/blob/main/Face.jpg)
+
 PhD students, Department of Electronics Engineering,
 National Yang Ming Chiao Tung University 
 
